@@ -2,6 +2,7 @@ body{
     background-color: #212836;
     color: #d4433c;
     font-size: 18px;
+    user-select: none;
 }
 span{
   display: inline-block;
