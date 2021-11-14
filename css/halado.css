@@ -3,25 +3,34 @@ body{
     color: #d4433c;
     font-size: 18px;
 }
+span{
+  display: inline-block;
+}
 .szurke{
     color:#97a7c8;
 }
-
 .sarga{
     color:#ffd95e;
 }
 .kek{
     color:#56a3b1;
 }
+p{
+  margin: 0;
+}
+.sorveg{
+  width: 100%;
+}
 #headclick{
     margin-left: 40px;
+}
+.content{
+  height: calc(100vh - 40px);
 }
 footer{
     margin: 0;
     height: 40px;
     width: 100%;
-    position: absolute;
-    bottom: 0;
     background-color: #56a3b1;
     padding: 10px 0;
   }
