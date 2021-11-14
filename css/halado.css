@@ -21,11 +21,11 @@ p{
 .sorveg{
   width: 100%;
 }
-#headclick{
-    margin-left: 40px;
+.be{
+    padding-left: 40px;
 }
 .content{
-  height: calc(100vh - 40px);
+  min-height: calc(100vh - 40px);
 }
 footer{
     margin: 0;
@@ -61,4 +61,7 @@ footer{
     font-size: 14px;
     line-height: 14px;
     margin-right: 200px;
+  }
+  .sorveg:hover{
+    background-color: #24324e77;
   }
