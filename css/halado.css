@@ -1,0 +1,55 @@
+body{
+    background-color: #212836;
+    color: #d4433c;
+    font-size: 18px;
+}
+.szurke{
+    color:#97a7c8;
+}
+
+.sarga{
+    color:#ffd95e;
+}
+.kek{
+    color:#56a3b1;
+}
+#headclick{
+    margin-left: 40px;
+}
+footer{
+    margin: 0;
+    height: 40px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #56a3b1;
+    padding: 10px 0;
+  }
+  
+  footer p{
+    color: #ffffff;
+  }
+  
+  footer .copyright, .copyrightt{
+    float: left;
+  }
+  
+  footer .copyright p, .copyrightt p{
+    text-align: center;
+    font-size: 14px;
+    line-height: 14px;
+    margin-left: 200px;
+  }
+  
+  footer .keszitette{
+    float: right;
+  }
+  
+  footer .keszitette p{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 14px;
+    line-height: 14px;
+    margin-right: 200px;
+  }
