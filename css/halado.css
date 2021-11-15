@@ -21,48 +21,22 @@ p{
 }
 .sorveg{
   width: 100%;
+  padding-left: 40px;
 }
 .be{
-    padding-left: 40px;
+    padding-left: 80px;
+}
+.beketto{
+  padding-left: 120px;
+}
+.beharom{
+  padding-left: 160px;
 }
 .content{
   min-height: calc(100vh - 40px);
+  padding-top: 100px;
 }
-footer{
-    margin: 0;
-    height: 40px;
-    width: 100%;
-    background-color: #56a3b1;
-    padding: 10px 0;
-  }
-  
-  footer p{
-    color: #ffffff;
-  }
-  
-  footer .copyright, .copyrightt{
-    float: left;
-  }
-  
-  footer .copyright p, .copyrightt p{
-    text-align: center;
-    font-size: 14px;
-    line-height: 14px;
-    margin-left: 200px;
-  }
-  
-  footer .keszitette{
-    float: right;
-  }
-  
-  footer .keszitette p{
-    font-family: 'Roboto Slab', serif;
-    font-weight: 700;
-    text-align: center;
-    font-size: 14px;
-    line-height: 14px;
-    margin-right: 200px;
-  }
+
   .sorveg:hover{
     background-color: #24324e77;
   }
