@@ -1,14 +1,13 @@
 body{
     background-color: #212836;
 }
+
 .egesz{
     background-color: #212836;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 80vh;
-   
-
 }
 .doboz{
     position: relative;
