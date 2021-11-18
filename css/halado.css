@@ -53,10 +53,30 @@ p{
   border-radius: 73% 27% 44% 56% / 49% 44% 56% 51%;
 }
 
+#tartalom{
+  float: right;
+}
+
+#tartalom a{
+  border: 2px solid #fff;
+  margin-right: 60px;
+  text-decoration: none;
+  color: #fff;
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 6px 18px;
+  border-radius:  27% 73%  56% 44% / 44% 49% 51% 56%;
+}
+
+#tartalom a:hover{
+  background:#fff;
+  color:#333;
+}
+
 #vissza:hover{
   background: #fff;
   color: #333;
 }
-  .sorveg:hover{
-    background-color: #24324e77;
-  }
+.sorveg:hover{
+  background-color: #24324e77;
+}
