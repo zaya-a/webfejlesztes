@@ -75,16 +75,33 @@ body{
 
 #jobbdoboz{
     float: left;
-    margin-left: 150px;
+    margin: 20px 150px;
 }
 
 #baldoboz{
     float: right;
-    margin-right: 150px;
+    margin: 20px 150px;
 }
 
 h1{
     text-align: center;
     color: #fff;
     padding-top: 50px;
+}
+@media only screen and (max-width:1300px){
+    #jobbdoboz{
+        margin: 20px 100px;
+    }
+    #baldoboz{
+        margin: 20px 50px;
+    }
+}
+
+@media only screen and (max-width:900px){
+    #jobbdoboz{
+        margin: 50px 150px;
+    }
+    #baldoboz{
+        margin: 50px 150px;
+    }
 }
