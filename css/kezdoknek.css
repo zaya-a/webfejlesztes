@@ -1,0 +1,62 @@
+body{
+    background-color: #212836;
+}
+
+header{
+    background-color: #2d3648;
+    width: 100%;
+    height: 70px;
+    padding-top: 20px;
+}
+#vissza{
+    border: 2px solid #fff;
+    text-decoration: none;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 6px 18px;
+    border-radius: 73% 27% 44% 56% / 49% 44% 56% 51%;
+  }
+  
+  #tartalom{
+    float: right;
+  }
+  
+  #tartalom a{
+    border: 2px solid #fff;
+    margin-right: 60px;
+    text-decoration: none;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 6px 18px;
+    border-radius:  27% 73%  56% 44% / 44% 49% 51% 56%;
+  }
+  
+  #tartalom a:hover{
+    background:#fff;
+    color:#333;
+  }
+  
+  #vissza:hover{
+    background: #fff;
+    color: #333;
+  }
+  .sorveg:hover{
+    background-color: #24324e77;
+  }
+  
+  .nagydoboz{
+      background-color: none;
+      width: 100%;
+      height: 100%;
+      align-content: center;
+  }
+
+  #kartya{
+      background-color: #2d3648;
+      color: #97a7c8;
+  }
+  b{
+      color: #e75b53;
+  }
