@@ -22,11 +22,14 @@ header{
 .kek{
     color:#56a3b1;
 }
+#egesz{
+  position: relative;
+}
 p{
   margin: 0;
 }
 .sorveg{
-  width: 100%;
+  width: 80%;
   padding-left: 40px;
 }
 .be{
@@ -79,4 +82,12 @@ p{
 }
 .sorveg:hover{
   background-color: #24324e77;
+}
+#tarto{
+  background-color: #97a7c8;
+  width: 500px;
+  height: 515px;
+  position:absolute;
+  top: 41px;
+  right: 100px;
 }
