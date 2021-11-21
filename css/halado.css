@@ -84,10 +84,19 @@ p{
   background-color: #24324e77;
 }
 #tarto{
-  background-color: #97a7c8;
+  background-color: #2d3648;
   width: 500px;
   height: 515px;
   position:absolute;
   top: 41px;
   right: 100px;
 }
+iframe{
+  width: 450px;
+  height: 430px;
+  margin-top: 70px;
+  margin-left: 25px;
+  background-color: #97a7c8;
+  border: none;
+}
+
